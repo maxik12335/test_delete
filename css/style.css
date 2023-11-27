@@ -1,0 +1,189 @@
+html{
+    box-sizing: border-box;
+}
+
+body{
+
+background: url(/img/img3.jpg) no-repeat;
+overflow-y: scroll;
+}
+
+
+
+
+
+
+
+
+.header-list{
+display: flex;
+justify-content: center;
+margin-top: 50px;
+;
+
+
+
+}
+
+.list-item{
+   display: flex;
+   align-items: center;
+
+}
+
+.logo-item{
+margin-right: 82px;
+
+}
+
+.list{
+margin-right: 82px;
+font-size: 24px;
+line-height: 18px;
+text-decoration: none;
+
+}
+
+.main{
+    height: 100vh;
+}
+
+.main-title-set{
+    position: absolute;
+    left: 50%;
+    right: 50%; 
+    margin: 50px 50px 50px -150px;
+    width: 250px;
+    height: 300px;
+    background-color: darkgray;
+    border: solid 5px white;
+}
+.main-okno{
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 200px;
+    font-size: 28px;
+    color: white;
+
+}
+
+.main-logo{
+    display: flex;
+    justify-content: center;
+    
+    padding-top: 40px;
+    
+   
+}
+
+.button-title{
+    display: flex;
+    align-items: flex-end;
+    margin-top: 30px;
+}
+    
+.text{
+    color: white;
+}
+
+.login-password{
+text-align: center;
+padding-top: 20px;
+
+}
+
+
+
+.knopka{
+    width: 150px;
+}
+
+.login-text{
+    padding-bottom: 10px;
+    color: white;
+}
+
+.password-text{
+    padding-bottom: 10px;
+    color: white;
+}
+
+.donat{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+
+.login{
+    padding-top: 25px;
+}
+
+.password{
+    padding-top: 25px;
+}
+
+/*try.html 1*/
+
+/*try.html 2*/
+
+.razdel{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.wrapper-around{
+
+    margin-top: 50px;
+    border: 1px solid white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    height: 100vh;
+    padding: 100px;
+    margin: 0 auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+.liist{
+ background-color: darkgray;
+ border: 2px solid white;
+ color: white;
+ font-size: 35px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-decoration: none;
+}
+
+
+.footer{
+    color: white;
+}
+
+.sund{
+   margin-left: 100px;
+
+}
+
+.wrap{
+    text-align: center;
+    font-size: 30px; 
+    padding-top:50px;
+
+}
+
+.nnn{
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.just{
+    margin-top: 20px;
+}
