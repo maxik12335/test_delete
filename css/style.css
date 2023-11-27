@@ -2,12 +2,9 @@ html{
     box-sizing: border-box;
 }
 
-body{
-
-background: url(/img/img3.jpg) no-repeat;
-overflow-y: scroll;
+.body{
+    background-image: url(../img/img3.jpg);
 }
-
 
 
 
